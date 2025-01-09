@@ -1,0 +1,5 @@
+npm init -y
+npm install express mongoose cors body-parser (body-parser deprecated may be)
+node server.js
+
+
